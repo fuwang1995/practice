@@ -26,4 +26,9 @@ public class Test1 {
 			return b;
 		}
 	}
+	
+	//这是我新加的一个方法，现在这个类发生了变动
+	public void newCode() {
+		
+	}
 }
